@@ -6,7 +6,7 @@
 
 - 🔭 while working on **authentication of my Movie Watchlist v2**
 
-- 👨‍💻 All of my projects are available at [ayanofujita.me](ayanofujita.me) (working progress)
+- 👨‍💻 All of my projects are available at [ayanofujita.me](ayanofujita.me) (work in progress)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
