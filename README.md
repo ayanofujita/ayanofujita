@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer | AWS Certified Developer - Associate</h3>
 <br>
 
-- 👨‍💻 I’m currently working on personal projects, which you can find at at [ayanofujita.me](ayanofujita.me) (work in progress)
+- 👨‍💻 I’m currently working on personal projects, which you can find at at [ayanofujita.me](https://ayanofujita.me) (work in progress)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center" >
